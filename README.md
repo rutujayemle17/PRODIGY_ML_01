@@ -28,20 +28,3 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
-
-
-How to Run the Code
-Clone the Repository: Clone the repository to your local machine:
-
-git clone https://github.com/yourusername/PRODIGY_ML_01.git
-Navigate to the Project Directory: Change into the project directory:
-
-
-Load the Dataset: Make sure the train.csv file is located in the Dataset folder as specified in the code.
-
-Run the Code: You can run the code using a Python environment or Jupyter Notebook. If you are using a Jupyter Notebook, ensure that you have installed Jupyter:
-
-View Results: After running the code, the output will display the Mean Absolute Error and R-squared value. Additionally, a scatter plot will visualize the actual vs. predicted house prices.
-
-Conclusion
-This project demonstrates a basic implementation of linear regression for predictive modeling in Python. Further improvements could involve feature engineering, model tuning, and exploring other machine learning algorithms for better accuracy.
